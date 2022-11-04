@@ -1,5 +1,6 @@
 Prueba del master de las ramas
  1. Creada rama feature1
  2. Creada rama feature2 (Adrian)
- 3. Cambio no aceptable
-Te cambio las cosas jeje 
+
+Aqui nadie modifica nada.
+
