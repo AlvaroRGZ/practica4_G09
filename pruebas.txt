@@ -1,6 +1,6 @@
 Prueba del master de las ramas
  1. Creada rama feature1
  2. Creada rama feature2 (Adrian)
- 3. Alvaro cambia la linea 3
-Yo tambien cambio las cosas
-de todas las lineas
+
+Aqui nadie modifica nada.
+
