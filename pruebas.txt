@@ -1,4 +1,4 @@
 Prueba del master de las ramas
  1. Creada rama feature1
  2. Creada rama feature2 (Adrian)
- 3. Cambio no aceptable
+ 3. Alvaro cambia la linea 3
